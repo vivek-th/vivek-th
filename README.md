@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on upgrading my skills and exploring new tech stuff
 - 🌱 I’m currently learning **Backend Web Development** 
-- 💬 Ask me about **HTML, CSS, Javascript,Bootstrap**
+- 💬 Ask me about **HTML, CSS, C , C++ ,Bootstrap**
 - 📫 How to reach me **vivekthakuruspc@gmail.com**
 
 </h4>
