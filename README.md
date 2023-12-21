@@ -1,4 +1,4 @@
-[![Yellow Modern Business Linkedin Banner (1)](https://i.im.ge/2022/08/05/FcU6aP.Yellow-Modern-Business-Linkedin-Banner-1.png)](https://im.ge/i/FcU6aP)
+![image](https://github.com/vivek-th/vivek-th/assets/91933018/055cf5e7-13b5-4cbf-8812-f7ee16a20cb1)
 
 <h1 align="center"> Hi, Vivek Here !👋 <h1>
 <h2 align="center"> Developer || Coder || Programmer <h2>
